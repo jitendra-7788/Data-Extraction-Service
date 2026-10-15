@@ -56,9 +56,7 @@ python manage.py runserver
 
 Open:
 
-- Swagger UI: http://127.0.0.1:8000/api/docs/
-- Schema: http://127.0.0.1:8000/api/schema/
-- Health: http://127.0.0.1:8000/api/v1/health
+- Swagger UI: https://data-extraction-service.onrender.com/api/docs/
 
 ## Quick start - Linux/macOS
 
